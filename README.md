@@ -1,9 +1,10 @@
-## Hi there! ✋
+
 `$ git clone https://github.com/ad4mx/ad4mx`
 
 `$ cd ad4mx`
 
 `$ vim readme.md`
+## Hi there! ✋
 ### ℹ About Me:
 - 👨‍💻 I'm a Python programmer from the Czech Republic
 - 💻 I use daily **.py**, **.sqlite**
