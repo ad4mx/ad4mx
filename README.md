@@ -14,4 +14,3 @@
 ### My stats:
 [![ad4mx's GitHub stats](https://github-readme-stats.vercel.app/api?username=ad4mx&show_icons=true&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![ad4mx's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ad4mx&layout=compact&theme=ayu-mirage&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![ad4mx's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ad4mx&theme=ayu-mirage&hide_border=true)](https://github.com/ad4mx/doks)
