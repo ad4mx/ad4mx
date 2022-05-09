@@ -7,7 +7,7 @@
 ## Hi there! ✋
 ### ℹ About Me:
 - 👨‍💻 I'm a Python programmer from the Czech Republic
-- 💻 I use **.py**, **.sqlite** daily
+- 💻 I use Python and SQLite daily
 - 💬 You can talk to me about mechanical keyboards, headphones and computers
 - ⚡ Fun fact: An ostrich's brain is smaller than its eye, yet it's still bigger than mine
 
