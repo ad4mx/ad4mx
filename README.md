@@ -6,7 +6,7 @@
 `$ vim readme.md`
 ## Hi there! ✋
 ### ℹ About Me:
-- 👨‍💻 I'm a Python programmer from the Czech Republic
+- 👨‍💻 I'm a programmer from the Czech Republic
 - 💻 I use Python (and now Rust) daily!
 - 💬 You can talk to me about mechanical keyboards, headphones and computers
 - ☕ I drink code and write coffee
